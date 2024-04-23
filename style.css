@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f1f1f1;
+    /* background-color: #f1f1f1; */
 }
 .main{
     width: 100%;
@@ -11,7 +11,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #e0e0e0;
+    background-image: linear-gradient(60deg, #d9ede9 0%, #c4b666 50%, #eae2b0 30%);
+    /* background-color: #e0e0e0; */
     flex-direction: column;
     gap: 20px;
     padding: 20px;
